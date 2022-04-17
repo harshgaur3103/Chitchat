@@ -6,7 +6,7 @@
 <br>
 <br>
 A simple Real-time chat application using Nodejs and Socket.io. <br>
-<b>Demo: </b> https://chitchat31.herokuapp.com/
+<b>Demo: </b> https://chitchat3103.herokuapp.com/
 <br>
 <h3>Pre-Requisites</h3>
 <ul>
