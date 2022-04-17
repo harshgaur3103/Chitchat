@@ -12,7 +12,7 @@ A simple Real-time chat application using Nodejs and Socket.io.
 <ul>
 <li><b>Socket.io: </b>A javascipt library used for real time communication between services</li>
 <li><b>NodeJs: </b>Used for backend</li>
-<li><b>ReactJS: </b>Used for frontend</li>
+<li><b>VanilaJS: </b>Used for frontend</li>
 </ul>
 
 <h3>Installation</h3>
