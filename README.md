@@ -5,7 +5,7 @@
 ![Javascript](https://img.shields.io/badge/ReactJs-v17.0.1-orange.svg)
 <br>
 <br>
-A simple Real-time chat application using Nodejs and Socket.io.
+A simple Real-time chat application using Nodejs and Socket.io. <br>
 <b>Demo: </b> https://chitchat31.herokuapp.com/
 <br>
 <h3>Pre-Requisites</h3>
